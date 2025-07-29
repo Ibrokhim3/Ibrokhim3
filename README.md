@@ -1,10 +1,10 @@
-# Hello, I'm Ibrokhim A. 👋  
+# Hello, I'm Ibrokhim 👋  
 ### Frontend Engineer @ Dynamic Soft | Crafting Intuitive Web Experiences  
 
 - 🔨 **Building**: Scalable web apps with clean UI and maintainable code  
 - 🌱 **Learning**: Django & Python to expand into full-stack development  
 - 💡 **Expertise**: React performance optimization, TypeScript best practices  
-- 📫 **Reach me**: [LinkedIn](linkedin.com/in/ibrohim-shamsiddinov-40712325b) | [Email](ishamsiddinov.97@gmail.com)  
+- 📫 **Reach me**: <a href="linkedin.com/in/ibrohim-shamsiddinov-40712325b" target="_blank">LinkedIn</a> | <a href="ishamsiddinov.97@gmail.com" target="_blank">Email</a>  
 
 ### 🛠️ Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
