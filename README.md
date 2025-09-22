@@ -2,7 +2,7 @@
 ### Frontend Engineer @ Dynamic Soft | Crafting Intuitive Web Experiences  
 
 - 🔨 **Building**: Scalable web apps with clean UI and maintainable code  
-- 🌱 **Learning**: Django & Python to expand into full-stack development  
+- 🌱 **Learning**: NodeJS & NestJS to expand into full-stack development  
 - 💡 **Expertise**: React performance optimization, TypeScript best practices  
 - 📫 **Reach me**: [LinkedIn](https://linkedin.com/in/ibrohim-shamsiddinov-40712325b) | [Email](mailto:ishamsiddinov.97@gmail.com)
 
